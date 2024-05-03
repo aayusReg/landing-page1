@@ -14,7 +14,7 @@ a {
   text-decoration: none;
 }
 p,
-a,.section-four h3,.footer {
+a,.section-four h3,.footer,button {
   color: #e5e7eb;
   font-size: 18px;
 }
@@ -100,4 +100,10 @@ button {
     padding: 30px;
     text-align: center;
 }
-  
+
+button{
+    border-radius: 5px;
+    padding:10px;
+    
+
+}
