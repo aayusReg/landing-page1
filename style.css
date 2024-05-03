@@ -49,12 +49,12 @@ figcaption {
 
 .header-content {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   margin: 0 auto;
+  gap:50px
 }
 .left {
   max-width: 30%;
-  margin-left: 6%;
 }
 
 .section-two {
